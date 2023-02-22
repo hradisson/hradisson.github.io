@@ -1,0 +1,30 @@
+
+
+html {
+    height:100%;
+}
+
+body {
+    background-color:#e7e7e7;
+    font-family:"times new roman";
+    text-align:center;
+}
+
+a:link {
+    color:#e60004;
+    background-color:transparent;
+}
+
+a:visited {
+    color:#e60004;
+    background-color:transparent
+}
+
+a:hover {
+    color:#7f7f7f;
+    background-color:transparent;
+}
+
+h1, h2 {
+    font-family:"arial"; 
+}
